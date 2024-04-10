@@ -1,3 +1,7 @@
+************************************************************************************************************
+* Este es un proyecto de prueba para practicar conceptos de react realizando un CRUD en memoria de tareas. *
+************************************************************************************************************
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
